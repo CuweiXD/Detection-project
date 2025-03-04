@@ -9,3 +9,4 @@ add->Model.pt
 &emsp;->data.yaml
    
 Train photo website:https://drive.google.com/drive/folders/1O3bBKpNAhmMMxprjkbsCeb0b4pAb0ty7?usp=sharing
+#  Model 20240305
